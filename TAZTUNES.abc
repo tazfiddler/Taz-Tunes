@@ -1,7 +1,3 @@
-%abc
-%%abc-alias Taz Tunes
-%%abc-creator ABCexplorer 1.6.1 [02/01/2021]
-
 X:1
 T:After the Duck
 M:4/4
@@ -289,6 +285,21 @@ D2 FA G2 BB|Acce f2f2|gfed cdef|1e2dcd2D2:|2e2dc sd2d2s||
 gfedc2e2|edcB ABce|1e2dc sd2d2s:|2e2dcd2 A2||
 
 X:22
+T:Higgs Jig
+C: Taz Tarry 30 Jan 2021
+M:4/4
+L:1/8
+K:G
+ded BGB|c2 B A2 B|ded BGB|d2 f g2 e|
+ded BGB|c2 B A2 B|DEF GAB|A2 F G3:|
+[K:D]
+B3 cBc|dcd efg|B3 cBc|dBG A2 A|
+B3 cBc|dcd efg|agf ecA|e2 f d3:|
+[K:G]
+e2 f dBG|c2 d BGE|A2B GEC|DFA B2 A|
+e2 f dBG|c2 d BGE|DFA GAB|"to coda to finish"A2 F G3:|!coda!"To finish"Adf g3|]
+
+X:23
 T:Hike in the Snow
 M:6/8
 L:1/8
@@ -301,7 +312,7 @@ dfe d2B|A2 F A3|ABc e2 c|d3 d3:|
 |:AFA BGB|AFA A3|FAc e2c|B3 A3|
 AFA BGB|AFA A3|Fec B2c|e3 d3:|
 
-X:23
+X:24
 T:Horse and Jockey
 M:6/8
 L:1/8
@@ -315,7 +326,7 @@ f2f fed|B2B BAG|FGA BAG|Adc d3:|
 |:fdf fdf|ecA GFE|DFA Bcd|fdf e2g|
 fdA fdA|ecA GFE|DFA dcB|Adcd2:|
 
-X:24
+X:25
 T:January Waltz
 M:3/4
 L:1/4
@@ -328,7 +339,7 @@ K:G
 GA_B|_BAG|=FD/F/D|DCD|=F3/2A/_B|_BAG|Bcd|e3|
 ede|e3/2d/c|BAB|BAG|FAd|ecA|ABA|G2|]
 
-X:25
+X:26
 T:Keldy Forest
 M:4/4
 L:1/8
@@ -342,7 +353,7 @@ d4 A2G2|FGAB =c2A2|B4 e2c2|d4 d4:|
 F2AA B2 A2|E2BB =c2 B2|B2 e2 dcBc|d4 d4:|
 % Output from ABC2Win Version 2.1 f on 01/05/2002
 
-X:26
+X:27
 T:Late For Work
 M:6/8
 L:1/8
@@ -356,7 +367,7 @@ G2BA2c|BAGg3|gfe dcB|cBA G3:|
 |:G2B GBG|F2A FAF|E2A EAE|DFA B2G|
 G2B GBG|F2A FAF|DFA cBA|BAF G3:|
 
-X:27
+X:28
 T:Lazy Schottische
 M:4/4
 L:1/8
@@ -370,7 +381,7 @@ d>ef>d g f3|c>de>c d B3|B>cd>e f2e2|d4d4:|
 |:f>ed>c B2 A2|G4 E4|G>Bd>f gf3|e4 e4|
 f>ed>c BA3|g>fe>d c A3|B>cd>e f2e2|d4 d4:|
 
-X:28
+X:29
 T:Merry Fiddler (1st Version), The
 N:Written for Cath Chandler - thank you
 C:Taz Tarry, May 2010. Revised April 2020
@@ -383,7 +394,7 @@ G>AB G>AB|G3 E3|g>fe f>ed|Ace d3:|
 |:aAA aAA|a2a a>gf|gBB gBB|g2 g g>fe|
 aAA aAA|a2a a>gf|g>fe a>gf|Ace d3:|
 
-X:29
+X:30
 T:Merry Fiddler (2nd Version), The
 N:Written for Cath Chandler - thank you
 C: A part Rob Neal May 2012, B Part Taz Tarry, May 2010, C Part Taz Tarry, May 2012
@@ -395,7 +406,7 @@ K:D
 |:aAA aAA|a2a agf|gBB gBB|g2 g gfe|aAA aAA|a2a agf|gfe agf|Ace d3:|
 |:f2 A ABA|g3 f2 e|ecA ABc|def e3|f2 A ABA|g3 f2 A|ABc Bcd|ece d3:|
 
-X:30
+X:31
 T:Out to Lunch
 M:4/4
 L:1/8
@@ -408,7 +419,7 @@ d>^cd>e d>=cB>A|G>FG>A B>G D2|D2 E>F G2 B2|A>GF>A G2 G2:|
 |:D>B,D>D E>CE>E|F>DF>A B>G D2|D>B,D>D E>CE>G|F>GA>F G2 D2|
 D>B,D>D E>CE>E|F>DF>A B>G D2|E>DE>F G2 B2|A>GF>A G2 G2:|
 
-X:31
+X:32
 T:Park Home Polka
 M:4/4
 L:1/8
@@ -421,7 +432,7 @@ A2FA d2cB|A2FD E2BB|A2FA d2ef|1 gfec d2 d2:|2 gfec d2 A2||
 |:G z Bd gfed|A z FA dcBA|G z Bd gfed|eace agfe|
 Gz Bd gfed|A z FA dcBA|G zBd gfed|1 edce d2 A2:|2 edce d2 d2||
 
-X:32
+X:33
 T:Patrick's Polka
 M:4/4
 L:1/8
@@ -435,7 +446,7 @@ G2 BG AB=cA|Bcd2efg2|gfed cdef|e2dcd4:|
 |:E2EEF2FF|GFGAB2d2|E2EEF2FF|G2F2E4|
 E2EEF2FF|GFGAB2d2|efgf edcd|e2dcd4:|
 
-X:33
+X:34
 T:Pegsdon Hills
 C: B.Tarry 22/3/2014
 M:4/4
@@ -447,7 +458,7 @@ G2 GA B2 GD|EEEGc2 c2|BdBG FGAF |G2 GG G2:|
 |:GA|B2 Bd gdcB|c2 ce agfe|fdfa gfed |edce A2 GA|
 BAGA Bcde| fede fg a2 |BdBG cAFA| AGGF G2:|
 
-X:34
+X:35
 T:Pendle
 M:2/4
 L:1/8
@@ -459,7 +470,7 @@ K:D
 |:(FA BA)|(FA BA)|(FA BA)|F2 D2|(FA BA)|(FA BA)|(FA BA)|d4:|
 |:fa fe|d2 ef|e2 cA|B2 A2|fa fe|d2 ef|e2 cA|B4:|
 
-X:35
+X:36
 T:Pete's Kettle
 M:9/8
 L:1/8
@@ -471,7 +482,7 @@ K:D
 |:DEF FGA ABc|DEF FGA E2D|DEF GAB cde|afe dce d3:|
 |:aff aff afe|aff afe dBA|aaa aaa aaa|ABc cec d3:|
 
-X:36
+X:37
 T:Pump Room Wedding March, or, Pump and Circumstance
 M:4/4
 L:1/4
@@ -490,7 +501,7 @@ P:C
 D|GDGd|d c/2B/2Ad|c B/2A/2 G/2A/2B|A/2G/2F/2G/2 A/2c/2B/2A/2|
 GDGd|d c/2B/2Ae|"rit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." cBAd|c/2B/2A/2F/2 G2||
 
-X:37
+X:38
 T:Summer's Jaunt
 C: Taz Tarry  30 July 1986
 M:C|
@@ -500,7 +511,7 @@ Q:1/4=120
 F|:D2 D>F D2 D>F|(3EFG A>B A2 F2|E2 E>G E2 E>G|(3FGF A>F D2 D2:|
 A2 A>d B2 B>d|(3ABA A>F E2 D2|A2 A>d B2 d2|(3efg e>c d2 d2:|
 
-X:38
+X:39
 T:Taylor's Ale
 M:4/4
 L:1/8
@@ -513,7 +524,7 @@ a2fe dBAF|D2 FA ABcA|ABcd efge|afec d2d2:|
 |:FAAA BAFA|ABce ecBA|FAAA BAFA|ABce d z A z|
 FAAA BAFA|DEFD FABF|ABcd efge|afec d2 A2:|
 
-X:39
+X:40
 T:Two and Threequarters Squared
 M:2/4
 L:1/16
@@ -526,7 +537,7 @@ d4B4|A2FAG4|A2DD E2DD|=F2DD ^F2DD|d4B4|A2FAG4|A2DD E2DD|E2F2G4:|
 K:D
 B4A4|A2FD E2D2|A2AA B2A2|=c2c^c d2A2|B4A4|A2FD E2D2|A2AA B2A2|F2AFD4:|
 
-X:40
+X:41
 T:What the Hull?  (Crooked version)
 C:Taz Tarry October 1988
 M:4/4
@@ -538,7 +549,7 @@ a>b ag ed (3efg|a>b ag ed e2|a>b ag ed ef| [M:5/4] GA Bd edef g2  ||
 [M:4/4]GA BG AB dA|[M:5/4]GA BG AG AB d2|[M:4/4] GA BG AB dA| Bd ed ef g2|
 GA BG AB dA|[M:5/4]GA BG AG AB d2|[M:4/4] GA BG AB dA| [M:3/4] Bded (3efg||]
 
-X:41
+X:42
 T:What the Hull?  (Regular version)
 C:Taz Tarry October 1988
 M:4/4
@@ -549,7 +560,7 @@ a>b ag ed (3efg|a>b ag ed e2|a>b ag ed ef|GA Bd ed (3efg|a>b ag ed (3efg|a>b ag 
 GA BG AB dA|GA BG BA A2 | GA BG AB dA| Bd ed ef g2|
 GA BG AB dA|GA BG BA A2 |GA BG AB dA|  Bd ed (3efg a2|]
 
-X:42
+X:43
 T:Where swopt the Plover (in its pleasure free)
 C: Taz Tarry 24 December 2020
 Q:1/4=100
@@ -565,13 +576,10 @@ Tune title taken from 'The Mores' by John Clare
 "G"F2 "A"A2 "D"d4|"G"cA"A"dB "D"e!slide!f3 |"G"dBcA "D"GBAc|"Bm"f>edf "A"e4|
 "D"d2 "G"f2 "A"a4|"D"a>fed "A"e>cBA|"Bm"F>ABc "A"edcd |"G"(3edd "A"ce "D"d4:|
 
-X:43
+X:44
 T:Whither?
 M:4/4
 L:1/8
-C:Taz Tarry
-S:Copyright B.Tarry, June 1987
-%%staffsep 30
 R:Reel
 Q:1/4=200
 K:G
@@ -580,10 +588,9 @@ BAGE D2 G2|A2AB AGE2|A2AB AGE2|AFA2G4:|
 gdgd e2d2|e2ef ed B2|gdgd e2d2|efed BGBd|
 gdgd e2d2|e2ef ed B2|edef edBG|AFA2 G4:|
 
-X:44
+X:45
 T:Woodchester Mansion
-%%staffsep 30
-C:Taz Tarry     © 2 July 2020
+C:Taz Tarry     Â© 2 July 2020
 Q:3/8=110
 M:6/8
 L:1/8
@@ -592,5 +599,3 @@ FAd fed|FAd fed|gfe dcB|ABA GFE|
 FAd fed|FAd fed|gfe ABc|dfe d3:|
 !slide!f2 f e2 e|dfe dcB|ABA =c2!slide!^c/c/|dfe dcB|
 !slide!f2 f e2 e|dfe dcB|FDF  BGB|dfe d3:|
-
-
